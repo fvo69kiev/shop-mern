@@ -1,6 +1,5 @@
 const products = [
     {
-        _id: '1',
         name: 'MURIA',
         image: '/images/muria.jpg',
         description:
@@ -13,7 +12,6 @@ const products = [
         numReviews: 4,
     },
     {
-        _id: '2',
         name: 'BELLA',
         image: '/images/bella.jpg',
         description:
@@ -26,7 +24,6 @@ const products = [
         numReviews: 4,
     },
     {
-        _id: '3',
         name: 'CITY STEAMER MM',
         image: '/images/city-steamer-mm.jpg',
         description:
@@ -39,7 +36,6 @@ const products = [
         numReviews: 3,
     },
     {
-        _id: '4',
         name: 'NEVERFULL MM',
         image: '/images/neverfull-mm.jpg',
         description:
@@ -52,7 +48,6 @@ const products = [
         numReviews: 3,
     },
     {
-        _id: '5',
         name: 'SOUFFLOT MM',
         image: '/images/soufflot-mm.jpg',
         description:
@@ -65,7 +60,6 @@ const products = [
         numReviews: 2,
     },
     {
-        _id: '6',
         name: 'HAUMEA',
         image: '/images/haumea.jpg',
         description:
